@@ -1,0 +1,9 @@
+0|0|English 6|
+1|0|English 7|
+2|1|Swedish 2|
+3|1|Swedish 3|
+4|2|Web 1|
+5|2|Web 2|
+6|3|Programming 1|
+7|3|Programming 2|
+8|4|Interaction 1|
